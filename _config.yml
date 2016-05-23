@@ -1,14 +1,14 @@
 # Site settings
 title: PHOTORAMA
-email: ""
+email: "youkitae62@gmail.com"
 description: "Photo Journal"
 url: "http://62tae.github.io"
 baseurl: /TedHomepage
-instagram_username: ""
+instagram_username: "62tae"
 github_username:  "62tae"
 deviantart_username: ""
-flickr_username: ""
-discus_shortname: ""
+flickr_username: "youkitae62"
+discus_shortname: "62tae"
 share: true
 
 # Owner/author information
