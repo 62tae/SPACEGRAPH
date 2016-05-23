@@ -2,10 +2,10 @@
 title: PHOTORAMA
 email: ""
 description: "Photo Journal"
-url: "http://sunbliss.github.io"
-baseurl: /photorama
+url: "http://62tae.github.io"
+baseurl: /TedHomepage
 instagram_username: ""
-github_username:  ""
+github_username:  "62tae"
 deviantart_username: ""
 flickr_username: ""
 discus_shortname: ""
@@ -13,7 +13,7 @@ share: true
 
 # Owner/author information
 owner:
-  name:   "photorama"
+  name:   "62tae"
   avatar: avatar.png
   favicon: favicon.ico
   description: "Photo Journal"
