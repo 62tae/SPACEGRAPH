@@ -93,4 +93,9 @@ When you add a tag or a category name in the front matter of a post, don't forge
 
 ----------
 
-I hope you will find it useful for your projects, photographic or not.
+I hope you will find it useful for your projects, photographic or not.]
+
+----------
+
+tags / categories 연결오류
+- 해결할것
