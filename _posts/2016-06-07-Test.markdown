@@ -1,0 +1,36 @@
+---
+layout:     post
+title:      "Post Edit Test"
+subtitle:   "62tae"
+image:
+  feature: "pc001.jpg"
+date:       2016-06-08
+author:     "owner_name"
+header-img: "img/postcover/pc001.jpg"
+tags: [tag01, tag02]
+categories: [cat01, cat02]
+comments: false
+---
+
+{% flickr_photo 26606326504 %}
+{% flickr_photo 26606326504 "Large Square" %}
+
+(1절) 동해물과 백두산이 마르고 닳도록
+하느님이 보우하사 우리나라 만세
+
+(2절) 남산위에 저 소나무 철갑을 두른 듯
+ 바람 서리 불변함은 우리 기상일세
+
+(3절) 가을하늘 공활한데 높고 구름 없이
+ 밝은 달은 우리 가슴 일편단심일세
+
+(4절) 이 기상과 이 맘으로 충성을 다하여
+ 괴로우나 즐거우나 나라 사랑하세
+
+
+<p>(후렴) 무궁화 삼천리 화려강산
+ 대한 사람 대한으로 길이 보전하세</p>
+
+<p>There were doors all round the hall, but they were all locked; and when  Alice had been all the way down one side and up the other, trying every  door, she walked sadly down the middle, wondering how she was ever to  get out again.</p>
+
+<p>Placeholder text by <a href="http://www.fillerati.com/">Fillerati</a>. Photography by <a href="https://unsplash.com">UNSPLASH</a>.</p>

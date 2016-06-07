@@ -69,3 +69,7 @@ sitemap:
         - "/writing/"
     change_frequency_name: "change_frequency"
     priority_name: "priority"
+
+# flickr
+flickr:
+  api_key: fcfc55e133a194c35b5ea2f30e7b44fa

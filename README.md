@@ -10,6 +10,7 @@ S p a c e G r a p h
 - about 페이지
 - SpaceGraph 자료 업데이트.
 - gallery 수정
+- 사진 플리커 연결
 - journal 수정
 
 
