@@ -1,7 +1,7 @@
 S p a c e G r a p h
 ====================
 
-**  해야할 일 **
+**해야할 일**
 
 - tags / categories 연결오류 해결
 - tiny letters 연결 (ok)
