@@ -1,15 +1,20 @@
 S p a c e G r a p h
 ====================
 
-![photorama](https://raw.githubusercontent.com/sunbliss/photorama/gh-pages/photorama_thumb.gif)
+**  해야할 일 **
 
+- tags / categories 연결오류 해결
+- tiny letters 연결 (ok)
+- disqus 연결 수정 (ing)
+- about page 수정
+- about 페이지
+- SpaceGraph 자료 업데이트.
+- gallery 수정
+- journal 수정
 
-![Speed Test](https://raw.githubusercontent.com/sunbliss/photorama/gh-pages/Website%20Speed%20Test.png)
 
 ----------
-
 ---> [DEMO](http://sunbliss.github.io/photorama/ "DEMO")  <---
-
 ----------
 
 A theme for **jekyll**. 
@@ -19,19 +24,6 @@ Created for gh-pages (project page).
 This template was crafted having in mind the photobloggers.
 
 It uses [Clean Blog](https://github.com/BlackrockDigital/startbootstrap-clean-blog-jekyll "Clean Blog") as its basis.
-
-----------
-
- **IMPORTANT!!!**
-================
-
-###Before you begin: Change the URL and the BASEURL in the _config.yml
-
-The **URL** should say `http://yourusername.github.io`
-
-The **BASEURL** should say `/repositoryname`
-
-If there are problems with loading assets like CSS files and images, make sure that both **URL** and **BASEURL** are set correctly!!! 
 
 ----------
 
@@ -95,11 +87,3 @@ When you add a tag or a category name in the front matter of a post, don't forge
 
 I hope you will find it useful for your projects, photographic or not.]
 
-----------
-**해야할 일**
-- tags / categories 연결오류 해결
-- tiny letters 연결
-- disqus 연결
-- gallery 수정
-- Journal 수정
-----------
