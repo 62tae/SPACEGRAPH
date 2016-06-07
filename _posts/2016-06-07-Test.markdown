@@ -4,7 +4,7 @@ title:      "TEST"
 subtitle:   "62tae"
 image:
   feature: "pc001.jpg"
-date:       2016-06-08
+date:       2016-06-07
 author:     "owner_name"
 header-img: "img/postcover/pc001.jpg"
 tags: [tag01, tag02]
