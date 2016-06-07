@@ -11,6 +11,7 @@ S p a c e G r a p h
 - SpaceGraph 자료 업데이트.
 - gallery 수정
 - 사진 플리커 연결
+- 일일히 수작업으로 업로드해야하나...
 - journal 수정
 
 
