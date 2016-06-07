@@ -9,7 +9,7 @@ author:     "owner_name"
 header-img: "img/postcover/pc006.jpg"
 tags: [tag03]
 categories: [cat04]
-comments: false
+comments: true
 ---
 
 <p>"You're a sly dog!" said Passepartout, winking at him.</p>
